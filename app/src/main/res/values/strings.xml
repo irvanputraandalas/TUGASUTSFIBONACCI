@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugasfibonacci</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_hitung">Hitung</string>
+    <string name="hitung_initial_value">0</string>
+    <string name="toast_pesan">PINJAM DULU SERATUS</string>
+</resources>
